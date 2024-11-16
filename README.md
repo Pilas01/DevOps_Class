@@ -1,1 +1,1 @@
-# DevOps_Class
+# This repository is for the devOps training class
